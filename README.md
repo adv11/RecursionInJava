@@ -1,9 +1,9 @@
 # RecursionInJava
-This repository contains some popular problems which can be solved using Recursion.
+This repository contains some popular problems which can be solved using Recursion\
 NOTE : I tried to explain with comments but if you have doubt or some confusion then you can refer Aditya Verms's Recursion Playlist(I also learned from that).
 
-Problems Covered :\
->> Print 1 to N\
+Problems Covered :
+>> 1) Print 1 to N\
 >> Print N to 1\
 >> Height of a Binary Tree\
 >> Sort an array using Recursion\
