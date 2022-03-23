@@ -1,13 +1,12 @@
 # RecursionInJava
-https://storage.googleapis.com/algodailyrandomassets/curriculum/recursion/cover.jpg
 This repository contains some popular problems which can be solved using Recursion.
 NOTE : I tried to explain with comments but if you have doubt or some confusion then you can refer Aditya Verms's Recursion Playlist(I also learned from that).
 
 ### Problems Covered :
->> Print 1 to N
->> Print N to 1
->> Height of a Binary Tree
->> Sort an array using Recursion
+>> Print 1 to N\
+>> Print N to 1\
+>> Height of a Binary Tree\
+>> Sort an array using Recursion\
 >> Sort stack using Recursion
 >> Delete middle element of a stack
 >> Sum of array using Recursion
