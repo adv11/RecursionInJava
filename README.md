@@ -1,8 +1,8 @@
 # RecursionInJava
-This repository contains some popular problems which can be solved using Recursion.
-NOTE : I tried to explain with comments but if you have doubt or some confusion then you can refer Aditya Verms's Recursion Playlist(I also learned from that).
+This repository contains some popular problems which can be solved using Recursion.\
+NOTE : I tried to explain with comments but if you have doubt or some confusion then you can refer Aditya Verms's Recursion Playlist(I also learned from that).\
 
-### Problems Covered :
+Problems Covered :\
 >> Print 1 to N\
 >> Print N to 1\
 >> Height of a Binary Tree\
