@@ -4,20 +4,20 @@ NOTE : I tried to explain with comments but if you have doubt or some confusion 
 
 Problems Covered :
 >> 1) Print 1 to N\
->> Print N to 1\
->> Height of a Binary Tree\
->> Sort an array using Recursion\
->> Sort stack using Recursion\
->> Delete middle element of a stack\
->> Sum of array using Recursion\
->> Reverse stack using recursion\
->> Kth symbol in grammer (Leetcode 779 : https://leetcode.com/problems/k-th-symbol-in-grammar/)\
->> Tower of Hanoi (GFG : https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1/)\
->> Print subsets / powersets / all subsequences\
->> Print all unique subsets and variations\
->> Permutation with spaces\
->> Permutation with case change\
->> Letter case permutation (Leetcode 784 : https://leetcode.com/problems/letter-case-permutation/)\
->> Generate all Balanced Brackets (Leetcodde 22 : https://leetcode.com/problems/generate-parentheses/)\
->> Print N-bit binary numbers having more or equal 1's than 0's for any prefix (GFG : https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/)\
->> Josephus Problem/Game of death in a circle (GFG : https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+>> 2) Print N to 1\
+>> 3) Height of a Binary Tree\
+>> 4) Sort an array using Recursion\
+>> 5) Sort stack using Recursion\
+>> 6) Delete middle element of a stack\
+>> 7) Sum of array using Recursion\
+>> 8) Reverse stack using recursion\
+>> 9) Kth symbol in grammer (Leetcode 779 : https://leetcode.com/problems/k-th-symbol-in-grammar/)\
+>> 10) Tower of Hanoi (GFG : https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1/)\
+>> 11) Print subsets / powersets / all subsequences\
+>> 12) Print all unique subsets and variations\
+>> 13) Permutation with spaces\
+>> 14) Permutation with case change\
+>> 15) Letter case permutation (Leetcode 784 : https://leetcode.com/problems/letter-case-permutation/)\
+>> 16) Generate all Balanced Brackets (Leetcodde 22 : https://leetcode.com/problems/generate-parentheses/)\
+>> 17) Print N-bit binary numbers having more or equal 1's than 0's for any prefix (GFG : https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/)\
+>> 18) Josephus Problem/Game of death in a circle (GFG : https://practice.geeksforgeeks.org/problems/josephus-problem/1)
